@@ -17,9 +17,6 @@ const aman = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
         databases: ["mongo", "MySql"],
         misc: ["Firebase"]
   },
