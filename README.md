@@ -20,7 +20,7 @@ const aman = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase"]
   },
-  otherAlias: "A casual gamer who loves to play multiplayer FPS Games like Valorant and PUBG PC"
+  otherAlias: "A casual gamer who loves to play multiplayer FPS Games like Valorant and PUBG PC",
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
