@@ -1,5 +1,5 @@
 <h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aman Jagotra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/view/coding-gif-24297652" width="230">
+<img align='right' src="https://github.com/DragnEmperor/DragnEmperor/blob/main/coding.gif?raw=true" width="230">
 <p><em>Pursuing B.Tech in CSE at <a href="http://nith.ac.in">NIT Hamirpur</a><img src="https://media3.giphy.com/media/LNk9FZTBjbCSlaxsQ0/giphy.gif" width="30"></br>Executive Member at <a href="https://www.specnith.com">SPEC NITH.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
