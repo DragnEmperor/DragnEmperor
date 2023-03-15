@@ -6,7 +6,7 @@
 [![Linkedin: amanjagotra](https://img.shields.io/badge/-amanjagotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-jagotra-26bb38207/?originalSubdomain=in)](https://www.linkedin.com/in/aman-jagotra-26bb38207/?originalSubdomain=in)
 [![GitHub DragnEmperor](https://img.shields.io/github/followers/DragnEmperor?label=follow&style=social)](https://github.com/DragnEmperor)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
 ```javascript
 const aman = {
@@ -16,6 +16,7 @@ const aman = {
         frontEnd: [React, Redux, Gatsby, TailwindCSS],
         backEnd: {
             js: ["Node", "Express"],
+            python: ["Django"]
         },
         databases: ["mongo", "MySql"],
         misc: ["Firebase"]
