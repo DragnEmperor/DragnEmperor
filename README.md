@@ -13,13 +13,13 @@ const aman = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, C ,C++ ],
   technologies: {
-        frontEnd: [React, Redux, Gatsby, TailwindCSS],
+        frontEnd: [ReactJS, Redux, Gatsby, NextJS, TailwindCSS],
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django"]
+            python: ["Django", "DRF", "Flask"]
         },
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase"]
+        databases: ["mongo", "MySql", "PostgreSQL"],
+        misc: ["Firebase", "Azure", "AWS"]
   },
   otherAlias: "A casual gamer who loves to play multiplayer FPS Games like Valorant and PUBG PC",
   funFact: "There are two ways to write error-free programs; only the third one works"
