@@ -11,7 +11,7 @@
 ```javascript
 const aman = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C ,C++ ],
+  code: [Javascript, HTML, CSS, C ,C++, Python ],
   technologies: {
         frontEnd: [ReactJS, Redux, Gatsby, NextJS, TailwindCSS],
         backEnd: {
