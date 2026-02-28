@@ -10,17 +10,17 @@
 ```javascript
 const aman = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C ,C++, Python ],
+  code: [Javascript, HTML, CSS, C ,C++, Python, Golang, Typescript],
   technologies: {
         frontEnd: [ReactJS, Redux, Gatsby, NextJS, TailwindCSS],
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django", "DRF", "Flask"]
+            python: ["Django", "DRF", "Flask", "FastAPI"]
         },
-        databases: ["mongo", "MySql", "PostgreSQL"],
-        misc: ["Firebase", "Azure", "AWS"]
+        databases: ["MongoDB", "MySql", "PostgreSQL"],
+        misc: ["Firebase", "Azure", "AWS", "Docker"]
   },
-  otherAlias: "A casual gamer who loves to play multiplayer FPS Games like Valorant and PUBG PC",
+  otherAlias: "A casual gamer who loves to play multiplayer Games like Valorant, Phasmophobia, Species Unknown.",
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
@@ -31,4 +31,6 @@ const aman = {
 
 📈 my github stats
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dragnemperor&show_icons=true&theme=gotham" alt="amanjagotra" />
+<p align="center">
+ <img src="./profile/stats.svg" alt="Stats" />
+</p>
